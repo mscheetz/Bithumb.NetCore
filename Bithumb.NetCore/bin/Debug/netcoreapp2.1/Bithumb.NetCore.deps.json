@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "f4dd72bebc6915db8bde45b0238656dd727e26bc"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Bithumb.NetCore/1.0.0": {
+        "dependencies": {
+          "DateTimeHelpers": "1.2.0",
+          "RESTApiAccess": "1.1.0"
+        },
+        "runtime": {
+          "Bithumb.NetCore.dll": {}
+        }
+      },
+      "DateTimeHelpers/1.2.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/DateTimeHelpers.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "RESTApiAccess/1.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/RESTApiAccess.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bithumb.NetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DateTimeHelpers/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iKqU3wnmznQHkSUK1mSmpPn7ZAc3U+dCoKKvh4I4IWfnhWogmrajNFsHhvh98dZB6X/M1kC8m6a462BRALikog==",
+      "path": "datetimehelpers/1.2.0",
+      "hashPath": "datetimehelpers.1.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RESTApiAccess/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ddi5RnnDi8Czhr+x40ueP6bwAPDwa+NzMIznvUzXqueR0yxTDF0oEc+jrxmuvA0iWnmxAqGuXM5iu4nvspp7Rg==",
+      "path": "restapiaccess/1.1.0",
+      "hashPath": "restapiaccess.1.1.0.nupkg.sha512"
+    }
+  }
+}
