@@ -8,5 +8,6 @@ namespace Bithumb.NetCore.Entities
     {
         public string status { get; set; }
         public T data { get; set; }
+        public string message { get; set; }
     }
 }

@@ -1,6 +1,13 @@
 C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\Bithumb.NetCore.deps.json
 C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\Bithumb.NetCore.dll
-C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.csprojAssemblyReference.cache
 C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.csproj.CoreCompileInputs.cache
 C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.AssemblyInfoInputs.cache
 C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.AssemblyInfo.cs
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\Bithumb.NetCore.runtimeconfig.json
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\Bithumb.NetCore.runtimeconfig.dev.json
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\bin\Debug\netcoreapp2.1\Bithumb.NetCore.pdb
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.dll
+C:\Source\Git\Bithumb.NetCore\Bithumb.NetCore\obj\Debug\netcoreapp2.1\Bithumb.NetCore.pdb

@@ -11,11 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Bithumb.NetCore")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Matt Scheetz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("2018 Matt Scheetz")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Api library for accessing Bithumb api built for .Net Standard")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Bithumb.NetCore")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bithumb.NetStd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bithumb.NetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
